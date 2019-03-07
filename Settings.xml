@@ -1,0 +1,351 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<PathOfBuilding>
+	<Mode mode="BUILD">
+		<Arg string="C:\Users\Deniz\Desktop\PoB/Builds/Synthesis/Bane Occultist.xml"/>
+		<Arg string="Bane Occultist"/>
+	</Mode>
+	<Accounts lastAccountName="DawnPoE">
+		<Account accountName="DawnPoE"/>
+		<Account accountName="Dredger"/>
+		<Account accountName="lowrider910"/>
+		<Account accountName="skyscan"/>
+		<Account accountName="Havoc6"/>
+		<Account accountName="PoEDan79"/>
+		<Account accountName="Quin69"/>
+		<Account accountName="DonTheCrown"/>
+		<Account accountName="Samir316"/>
+		<Account accountName="Zizaran"/>
+		<Account accountName="rasnic"/>
+		<Account accountName="lastsamurai119"/>
+		<Account accountName="Knockedout"/>
+	</Accounts>
+	<SharedItems>
+		<Item>
+			Rarity: UNIQUE
+Prismatic Eclipse
+Twilight Blade
+Variant: Pre 1.3.0
+Variant: Pre 2.6.0
+Variant: Current
+Selected Variant: 3
+Quality: 20
+Sockets: G-G-G
+LevelReq: 53
+Implicits: 2
+{variant:1,2}18% increased Accuracy Rating
+{variant:3}40% increased Global Accuracy Rating
+{variant:1}10% additional Chance to Block while Dual Wielding
+{variant:2,3}8% additional Chance to Block while Dual Wielding
+{range:0.5}Adds (20-30) to (31-40) Physical Damage
+25% increased Physical Damage with Weapons per Red Socket
+12% increased Global Attack Speed per Green Socket
+0.4% of Physical Attack Damage Leeched as Mana per Blue Socket
++2 to Melee Weapon Range per White Socket
+		</Item>
+		<Item>
+			Rarity: RARE
+Dread Sever
+Jewelled Foil
+Unique ID: eb722bbb8eeee8fbdf3b6d97e507d30c5569a543c517ea4207ae01bffb304e3c
+Item Level: 71
+Quality: 28
+Sockets: R-B-G
+LevelReq: 68
+Implicits: 1
++25% to Global Critical Strike Multiplier
+170% increased Physical Damage
+21% increased Attack Speed
+20% increased Critical Strike Chance
++60 to Accuracy Rating
+{crafted}Adds 17 to 30 Physical Damage
+		</Item>
+		<Item>
+			Rarity: RARE
+Eagle Impaler
+Jewelled Foil
+Shaper Item
+Item Level: 86
+Quality: 45
+Sockets: R-R-G
+LevelReq: 68
+Implicits: 1
++25% to Global Critical Strike Multiplier
+Adds 19 to 33 Physical Damage
+Gain 19% of Physical Damage as Extra Fire Damage
+Can have multiple Crafted Modifiers
+117% increased Physical Damage
+17% increased Attack Speed
+22% increased Critical Strike Chance
++17% to Quality
+		</Item>
+		<Item>
+			Rarity: UNIQUE
+Voidforge &quot;Show Dps&quot;
+Infernal Sword
+Quality: 20
+Sockets: G-G-G-G-G-G
+LevelReq: 67
+Implicits: 1
+30% increased Accuracy Rating
+{range:1}(50-100)% increased Physical Damage
+{range:0.5}(5-8)% increased Attack Speed
+{range:0.5}+(90-100) to maximum Life
+Your Elemental Damage can Shock
+Gain 100% of Weapon Physical Damage as Extra Cold Damage
+Gain 100% of Weapon Physical Damage as Extra Fire Damage
+Gain 100% of Weapon Physical Damage as Extra Lightning Damage
+20% increased Area of Effect for Attacks
+Deal no Non-Elemental Damage
+		</Item>
+		<Item>
+			Rarity: UNIQUE
+The Crimson Storm
+Steelwood Bow
+Item Level: 85
+Quality: 43
+Sockets: R-W-G-W-G-G
+LevelReq: 57
+Implicits: 1
+4% increased Movement Speed
+166% increased Physical Damage
+35% increased Critical Strike Chance
+50% chance to inflict Bleeding on Critical Strike with Attacks
+Enemies you inflict Bleeding on grant 63% increased Flask Charges
+Adds 118 to 164 Physical Damage against Bleeding Enemies
+50% chance to Maim Enemies on Critical Strike with Attacks
+16% increased Attack Speed
++15% to Quality
+Corrupted
+		</Item>
+		<Item>
+			Rarity: RARE
+New Item
+Murderous Eye Jewel
+Crafted: true
+Prefix: {range:0.465}AbyssJewelAddedLife3
+Prefix: None
+Suffix: None
+Suffix: {range:1}AbyssAddedLightningSuffixJewel5
+Quality: 0
+LevelReq: 60
+Implicits: 0
+Adds 6 to 68 Lightning Damage to Attacks
++40 to maximum Life
+		</Item>
+		<Item>
+			Rarity: RARE
+Viper Cowl
+Hubris Circlet
+Item Level: 84
+Quality: 20
+Sockets: B B-B-B
+LevelReq: 69
+Implicits: 0
++50 to Intelligence
++40 to maximum Energy Shield
++44% to Fire Resistance
++39% to Lightning Resistance
+71% increased Energy Shield
+		</Item>
+		<Item>
+			Rarity: RARE
+Foul Sight
+Hypnotic Eye Jewel
+Item Level: 69
+LevelReq: 46
+Implicits: 0
+Adds 14 to 19 Fire Damage to Spells
++35 to maximum Life
+Adds 2 to 30 Lightning Damage to Spells while Dual Wielding
+		</Item>
+		<Item>
+			Rarity: RARE
+Damnation Bind
+Stygian Vise
+Item Level: 86
+Sockets: A
+Implicits: 1
+Has 1 Abyssal Socket
++49 to maximum Energy Shield
++52 to maximum Life
++40% to Fire Resistance
++45% to Cold Resistance
++8% to Lightning Resistance
+20% increased Elemental Damage with Attack Skills
+		</Item>
+		<Item>
+			Rarity: RARE
+Foul Orb
+Searching Eye Jewel
+Item Level: 82
+LevelReq: 61
+Implicits: 0
+Adds 18 to 32 Cold Damage to Attacks
+Adds 4 to 64 Lightning Damage to Attacks
++29 to maximum Life
+		</Item>
+		<Item>
+			Rarity: RARE
+Ring
+Ruby Ring
+Crafted: true
+Prefix: None
+Prefix: None
+Prefix: None
+Suffix: None
+Suffix: None
+Suffix: None
+LevelReq: 16
+Implicits: 1
+{range:0.5}+(20-30)% to Fire Resistance
+		</Item>
+		<Item>
+			Rarity: RARE
+Woe Finger
+Topaz Ring
+Shaper Item
+Item Level: 82
+LevelReq: 64
+Implicits: 1
++30% to Lightning Resistance
++37 to Strength
+Adds 10 to 19 Cold Damage to Attacks
+24% increased Global Critical Strike Chance
++68 to maximum Mana
+Curse Enemies with Level 8 Assassin&apos;s Mark on Hit
++55 to maximum Life
+		</Item>
+		<Item>
+			Rarity: RARE
+Hate Heart
+Onyx Amulet
+Item Level: 78
+LevelReq: 59
+Implicits: 1
++16 to all Attributes
++39 to Dexterity
+36% increased Global Critical Strike Chance
++37% to Global Critical Strike Multiplier
++22 to maximum Energy Shield
++60 to maximum Life
+9% increased Area of Effect
+11% increased Area Damage
+		</Item>
+		<Item>
+			Rarity: RARE
+New Item
+Stygian Vise
+Crafted: true
+Prefix: None
+Prefix: {range:0.014}IncreasedLife9
+Prefix: None
+Suffix: {range:0.289}Strength8
+Suffix: None
+Suffix: None
+Quality: 0
+Sockets: A
+LevelReq: 59
+Implicits: 1
+Has 1 Abyssal Socket
++45 to Strength
++90 to maximum Life
+		</Item>
+		<Item>
+			Rarity: RARE
+Morbid Sight
+Searching Eye Jewel
+Item Level: 83
+LevelReq: 59
+Implicits: 0
+3% increased Attack Speed
++37 to maximum Life
+Adds 6 to 9 Physical Damage to Bow Attacks
+		</Item>
+		<Item>
+			Rarity: UNIQUE
+Paradoxica
+Vaal Rapier
+Item Level: 84
+Quality: 37
+Sockets: G B G
+LevelReq: 66
+Implicits: 1
++25% to Global Critical Strike Multiplier
+100% Chance to deal Double Damage with this Weapon
+98% increased Physical Damage
+8% increased Attack Speed
+20% chance to cause Bleeding on Hit
++9% to Quality
+		</Item>
+		<Item>
+			Rarity: MAGIC
+Ample Diamond Flask of the Order
+Item Level: 51
+Quality: 20
+LevelReq: 27
+Implicits: 0
++17 to Maximum Charges
+61% increased Critical Strike Chance during Flask Effect
+		</Item>
+		<Item>
+			Rarity: RARE
+Havoc Hold
+Steel Ring
+Item Level: 83
+LevelReq: 80
+Implicits: 1
+Adds 3 to 14 Physical Damage to Attacks
++53 to Strength
++98 to Accuracy Rating
++52 to maximum Life
++8% to all Elemental Resistances
+42% increased Elemental Damage with Attack Skills
+Adds 6 to 10 Physical Damage to Attacks
+		</Item>
+		<Item>
+			Rarity: RARE
+Beast Knuckle
+Topaz Ring
+Item Level: 78
+LevelReq: 57
+Implicits: 1
++30% to Lightning Resistance
+Adds 1 to 27 Lightning Damage to Attacks
++10 to maximum Energy Shield
++64 to maximum Life
++15% to all Elemental Resistances
++45% to Cold Resistance
++41% to Lightning Resistance
+		</Item>
+		<Item>
+			Rarity: RARE
+Foul Orb
+Searching Eye Jewel
+Item Level: 82
+LevelReq: 61
+Implicits: 0
+Adds 18 to 32 Cold Damage to Attacks
+Adds 4 to 64 Lightning Damage to Attacks
++29 to maximum Life
+Adds 9 to 17 Fire Damage to Wand Attacks
+		</Item>
+		<Item>
+			Rarity: RARE
+Invasion Sole
+Two-Toned Boots (Armour/Energy Shield)
+Item Level: 71
+Quality: 20
+Sockets: R-R-G-G
+LevelReq: 70
+Implicits: 1
++20% to Fire and Lightning Resistances
++72 to maximum Life
++29% to Fire Resistance
++34% to Cold Resistance
+25% increased Movement Speed
+36% increased Armour and Energy Shield
++27 to maximum Life
+		</Item>
+	</SharedItems>
+	<Misc showThousandsCalcs="false" showThousandsSidebar="false" nodePowerTheme="RED/BLUE" buildSortMode="CLASS"/>
+</PathOfBuilding>
