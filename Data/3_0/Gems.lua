@@ -4240,6 +4240,23 @@ return {
 		reqDex = 0,
 		reqInt = 100,
 	},
+	["Metadata/Items/Gems/SkillGemSoulrend"] = {
+		name = "Soulrend",
+		grantedEffectId = "Soulrend",
+		tags = {
+			intelligence = true,
+			active_skill = true,
+			spell = true,
+			projectile = true,
+			duration = true,
+			chaos = true,
+			area = true,
+		},
+		tagString = "Spell, Projectile, Duration, Chaos, AoE",
+		reqStr = 0,
+		reqDex = 0,
+		reqInt = 60,
+	},
 	["Metadata/Items/Gems/SkillGemFrostBoltNova"] = {
 		name = "Vortex",
 		grantedEffectId = "FrostBoltNova",
