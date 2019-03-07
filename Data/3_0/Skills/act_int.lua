@@ -6655,6 +6655,7 @@ skills["FrostBoltNova"] = {
 skills["FrostFury"] = {
 	name = "Winter Orb",
 	color = 3,
+	--0.69999998807907
 	baseEffectiveness = 0.69999998807907,
 	incrementalEffectiveness = 0.041000001132488,
 	description = "Channel to conjure an orb above you, which pelts nearby enemies with projectiles that impact the ground and explode. Channelling for longer builds up stages on the skill. When you stop channelling, the stages decay over a duration.",

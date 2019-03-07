@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <PathOfBuilding>
 	<Mode mode="BUILD">
-		<Arg string="C:\Users\Deniz\Desktop\PoB/Builds/Synthesis/Bane Occultist.xml"/>
-		<Arg string="Bane Occultist"/>
+		<Arg boolean="false"/>
+		<Arg string="Unnamed build"/>
 	</Mode>
 	<Accounts lastAccountName="DawnPoE">
 		<Account accountName="DawnPoE"/>
